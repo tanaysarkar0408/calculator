@@ -1,16 +1,10 @@
 # calculator
+![](https://img.shields.io/static/v1?style=for-the-badge&label=POWERED%20BY&message=FLUTTER&color=02569B&logo=FLUTTER)
 
-A new Flutter project.
+A Calculator app<br>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+[Download Now](https://github.com/tanaysarkar0408/calculator/releases)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots
+<img src="https://imgur.com/XgvKS9A" width="400"> <img src="https://imgur.com/kRBHgUj" width="400"> <br>
