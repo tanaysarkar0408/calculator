@@ -7,4 +7,6 @@ A Calculator app<br>
 [Download Now](https://github.com/tanaysarkar0408/calculator/releases)
 
 ### Screenshots
+
+![](https://github.com/tanaysarkar0408/messenger/blob/master/Gif.mp4)
 <img src="https://imgur.com/XgvKS9A" width="400"> <img src="https://imgur.com/kRBHgUj" width="400"> <br>
