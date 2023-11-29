@@ -7,4 +7,4 @@ A Calculator app<br>
 [Download Now](https://github.com/tanaysarkar0408/calculator/releases)
 
 ### Screenshots
-<img src="https://imgur.com/XgvKS9A" width="400"><br> <img src="https://imgur.com/kRBHgUj" width="400">
+<img src="https://imgur.com/uqycBy0" width="400"><br> <img src="https://imgur.com/GXlIQcE" width="400">
